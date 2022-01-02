@@ -18,36 +18,25 @@ By @Kayzuuuuu
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("Sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ Sᴇssɪᴏɴ​", callback_data="generate")],
+        [InlineKeyboardButton("💥ꜱᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ ꜱᴇꜱꜱɪᴏɴ💥​", callback_data="generate")],
         [InlineKeyboardButton(text="ʙᴀᴄᴋ​", callback_data="home")]
     ]
 
     generate_button = [
-        [InlineKeyboardButton("Sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ Sᴇssɪᴏɴ", callback_data="generate")]
+        [InlineKeyboardButton("ꜱᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ ꜱᴇꜱꜱɪᴏɴ", callback_data="generate")]
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("Sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ Sᴇssɪᴏɴ", callback_data="generate")],
-        [InlineKeyboardButton("ᴍᴀɪɴᴛᴀɴᴇᴅ ʙʏ​", url="https://t.me/kayzuchannel")],
-        [
+        [InlineKeyboardButton("🔥ꜱᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ ꜱᴇꜱɪᴏɴ🔥", callback_data="generate")],
+        L
             InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ​​", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ​", callback_data="about")
         ],
         [InlineKeyboardButton("ɪɴꜰᴏ ʙᴏᴛ ʟᴀɪɴɴʏᴀ​", url="https://t.me/KayzuSupport")],
     ]
 
-    # Help Message
-    HELP = """
-💥 **Available Commands** 💥
-
-/about - Tentang Bot ini
-/help - This Message
-/start - Mulai Bot
-/generate - Mulai Generating Session
-/cancel - Membatalkan process
-/restart - Membatalkan process
-"""
+    # Helpl
 
     # About Message
     ABOUT = """
