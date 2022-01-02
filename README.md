@@ -66,9 +66,9 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [Support Channel](https://t.me/ahhsudahlahhh)
+Channel :- [Support Channel](https://t.me/kayzuchannel)
 
-Group Chat :- [Group support](https://t.me/NastySupportt)
+Group Chat :- [Group support](https://t.me/KayzuSupport)
 
 ## :)
 
