@@ -31,9 +31,7 @@ By @Kayzuuuuu
         [InlineKeyboardButton("🔥ꜱᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ ꜱᴇꜱɪᴏɴ🔥", callback_data="generate")],
        
             [InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇ​​", callback_data="help")],
-            [InlineKeyboardButton("ᴀʙᴏᴜᴛ​", callback_data="about")]
-        ],
-        
+            [InlineKeyboardButton("ᴀʙᴏᴜᴛ​", callback_data="about")],
         [InlineKeyboardButton("ɪɴꜰᴏ ʙᴏᴛ ʟᴀɪɴɴʏᴀ​", url="https://t.me/KayzuSupport")],
     ]
 
