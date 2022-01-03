@@ -21,7 +21,7 @@ By @Kayzuuuuu
         [InlineKeyboardButton("💥ꜱᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ ꜱᴇꜱꜱɪᴏɴ💥​", callback_data="generate")],
         [InlineKeyboardButton(text="ʙᴀᴄᴋ​", callback_data="home")]
     ]
-
+    
     generate_button = [
         [InlineKeyboardButton("ꜱᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ ꜱᴇꜱꜱɪᴏɴ", callback_data="generate")]
     ]
@@ -29,9 +29,9 @@ By @Kayzuuuuu
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥ꜱᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ ꜱᴇꜱɪᴏɴ🔥", callback_data="generate")],
-        L
-            InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ​​", callback_data="help"),
-            InlineKeyboardButton("ᴀʙᴏᴜᴛ​", callback_data="about")
+       
+            [InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇ​​", callback_data="help")],
+            [InlineKeyboardButton("ᴀʙᴏᴜᴛ​", callback_data="about")]
         ],
         [InlineKeyboardButton("ɪɴꜰᴏ ʙᴏᴛ ʟᴀɪɴɴʏᴀ​", url="https://t.me/KayzuSupport")],
     ]
